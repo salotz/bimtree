@@ -1,0 +1,35 @@
+#+TODO: TODO | WAIT | DONE CANCELLED
+
+* TODOS
+  
+* Projects
+
+* Incubator
+
+* Templates
+
+** Project Template
+
+Goal:
+
+
+General info:
+
+*** todos
+*** todos_archive
+*** reference
+*** incubator
+*** log
+
+
+* Projects Archive
+
+* COMMENT Local variables
+
+# Local Variables:
+# mode: org
+# org-todo-keyword-faces: (("TODO" . org-warning) ("WAIT" . "orange") ("DONE" . org-done))
+# org-log-done: t
+# End:
+
+
